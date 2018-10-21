@@ -43,6 +43,6 @@ To view published papers, please see my [Google Scholar](https://scholar.google.
 
 * [HPCA](https://github.com/aaron-scheffler/HPCA): R code for performing hybrid principal components analysis (HPCA).
 
-* [HPCA](https://github.com/aaron-scheffler/HPCA): R code for covariate-adjusted region-referenced generalized functional linear model (CARR-GFLM).
+* [CARR-GFLM](https://github.com/aaron-scheffler/HPCA): R code for covariate-adjusted region-referenced generalized functional linear model (CARR-GFLM).
 
 
