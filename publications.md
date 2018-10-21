@@ -45,4 +45,4 @@ To view published papers, please see my [Google Scholar](https://scholar.google.
 
 * [CARR-GFLM](https://github.com/aaron-scheffler/HPCA): R code for covariate-adjusted region-referenced generalized functional linear model (CARR-GFLM).
 
-
+[ [Back to homepage] ](./)
