@@ -41,8 +41,8 @@ To view published papers, please see my [Google Scholar](https://scholar.google.
 
 * [MD-FPCA](https://github.com/aaron-scheffler/MD-FPCA): R code for performing multi-dimensional functional principal components analysis (MD-FPCA).
 
-* [HPCA](https://github.com/aaron-scheffler/HPCA): R code for performing hybrid principal components analysis (MD-FPCA).
+* [HPCA](https://github.com/aaron-scheffler/HPCA): R code for performing hybrid principal components analysis (HPCA).
 
-
+* [HPCA](https://github.com/aaron-scheffler/HPCA): R code for covariate-adjusted region-referenced generalized functional linear model (CARR-GFLM).
 
 
