@@ -14,10 +14,28 @@ To view published papers, please see my [Google Scholar](https://scholar.google.
 
 * __Scheffler, A.__ \* Hasenstab, K.\*, Telesca, D., Sugar, C., Jeste, S., DiStefano, C.,  Senturk, D. (2017). A Multi-Dimensional Functional Principal Components Analysis of EEG Data. _Biometrics_. (\*Authors contributed equally)
 
-* Rotheram-Borus, M.J., Tomlinson, M., __Scheffler, A.__ , Harris, D., Nelson, S. (2017). Adjustment of a Population of South African Children of Mothers Living With/and Without HIV Through Three Years Post-Birth. _AIDS and Behavior_.
+* Rotheram-Borus, M.J., Tomlinson, M., __Scheffler, A.__, Harris, D., Nelson, S. (2017). Adjustment of a Population of South African Children of Mothers Living With/and Without HIV Through Three Years Post-Birth. _AIDS and Behavior_.
+
+* Arnold, E.M., Desmond, K.A., Rotheram-Borus, M.J., __Scheffler, A.__, Comulada, W.S., Johnson, M.O., Kelly, J.A. (2017). Drug use and emotional distress differentiate unstably-versus stably-housed adults living with HIV who engage in unprotected sex. _Journal of Health Psychology_.
+
+* Tomlinson, M., Rotheram-Borus, M.J., le Roux, I., Youssef, M., Neslon, S., __Scheffler, A.__, Weiss, R., O'Connor, M., Worthman, C. (2016). Thirty-Six-Month Outcomes of a Generalist Paraprofessional Perinatal Home Visiting Intervention in South Africa on Maternal Health and Child Health and Development. _Prevention Science_.
+
+* Swendeman, D., Ramanthan, N., Baetscher, L., Medich, M., __Scheffler, A.__, Comulada, W.S., Estrin, D. (2015). Smartphone self-monitoring to support self-management among people living with HIV: Perceived benefits and theory of change from a mixed-methods, randomized pilot study. _Journal of Acquired Immune Deficiency Syndrome_. 
+
+* Rotheram-Borus, M.J., Tomlinson, M., __Scheffler, A.__, le Roux, I. (2015). Re-engagement in HIV care among Mothers Living with HIV in South Africa over 36 Months Post-birth. _AIDS_.
+
 
 ### In preparation
 
+* __Scheffler, A.__, Jeste, S., Dickinson, A., DiStefano, C.,  Senturk, D. (2018). Covariate-adjusted hybrid principal components analysis for region-referenced functional EEG data. 
+
+* ABC project (need information on individuals) 
+
+* Dickinson, A., DiStefano, C., Tran, X., __Scheffler, A.__,  Senturk, D., Jeste, S. Interhemispheric oscillatory connectivity in infants with Autism Spectrum Disorder.
+
+* __Scheffler, A.__, Telesca, D. Germline microRNA signatures predict toxicity in response to immunotherapy in a mixed cancer cohort.
+
+* Senturk, D. and __Scheffler, A.__ Modeling longitudinal trends in Event Related Potentials (ERPs). (book chapter)
 
 ### Software
 
