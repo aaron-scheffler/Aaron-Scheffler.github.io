@@ -7,3 +7,5 @@ My research is advised by [Dr. Damla Senturk](https://www.biostat.ucla.edu/peopl
 
 For a full list of my publications is availabile [here](publications.md).
 
+[ [Back to homepage] ](./)
+
