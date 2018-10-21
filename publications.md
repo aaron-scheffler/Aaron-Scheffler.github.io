@@ -33,7 +33,7 @@ To view published papers, please see my [Google Scholar](https://scholar.google.
 
 * Dickinson, A., DiStefano, C., Tran, X., __Scheffler, A.__,  Senturk, D., Jeste, S. Interhemispheric oscillatory connectivity in infants with Autism Spectrum Disorder.
 
-* __Scheffler, A.__, Telesca, D. Germline microRNA signatures predict toxicity in response to immunotherapy in a mixed cancer cohort.
+* Wiedhaas, J., __Scheffler, A.__, Telesca, D. Germline microRNA signatures predict toxicity in response to immunotherapy in a mixed cancer cohort.
 
 * Senturk, D. and __Scheffler, A.__ Modeling longitudinal trends in Event Related Potentials (ERPs). (book chapter)
 
