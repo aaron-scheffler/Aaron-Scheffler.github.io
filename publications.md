@@ -12,7 +12,7 @@ To view published papers, please see my [Google Scholar](https://scholar.google.
 
 * Rotheram-Borus, E.J., Tomlinson, M., __Scheffler, A.__, Weichle, T.W., Hayati Rezvan, P., Comulada W.S., Rotheram-Borus, M.J. (2018). Maternal patterns of antenatal and postnatal depressed mood and the impact on child health at 3-years postpartum. _Jounral of Consulting and Clinical Pyschology_.
 
-* __Scheffler, A.__ \* Hasenstab, K.\*, Telesca, D., Sugar, C., Jeste, S., DiStefano, C.,  Senturk, D. (2017). A Multi-Dimensional Functional Principal Components Analysis of EEG Data. _Biometrics_. (\* Joint first authors) __(WNAR Best Student Paper)__
+* __Scheffler, A.__ \* Hasenstab, K.\*, Telesca, D., Sugar, C., Jeste, S., DiStefano, C.,  Senturk, D. (2017). A Multi-Dimensional Functional Principal Components Analysis of EEG Data. _Biometrics_. (\*Joint first authors) __(WNAR Best Student Paper)__
 
 * Rotheram-Borus, M.J., Tomlinson, M., __Scheffler, A.__, Harris, D., Nelson, S. (2017). Adjustment of a Population of South African Children of Mothers Living With/and Without HIV Through Three Years Post-Birth. _AIDS and Behavior_.
 
@@ -38,6 +38,11 @@ To view published papers, please see my [Google Scholar](https://scholar.google.
 * Senturk, D. and __Scheffler, A.__ Modeling longitudinal trends in Event Related Potentials (ERPs). (book chapter)
 
 ### Software
+
+* [MD-FPCA](https://github.com/aaron-scheffler/MD-FPCA): R code for performing multi-dimensional functional principal components analysis (MD-FPCA).
+
+* [HPCA](https://github.com/aaron-scheffler/MD-FPCA): R code for performing hybrid principal components analysis (MD-FPCA).
+
 
 
 
