@@ -8,9 +8,9 @@ To view published papers, please see my [Google Scholar](https://scholar.google.
 
 * __Scheffler, A.__, Telesca, D., Li, Q.,  Sugar, C., DiStefano, C., Jeste, S., Senturk, D. (2018). Hybrid principal components analysis for region-referenced longitudinal functional EEG data. _Biostatistics_.
 
-* Dickinson, A., DiStefano, C., __Scheffler, A.__,  Senturk, D., Jeste, S. (2018) Interhemispheric alpha-band hyperconnectivity in children with Autism Spectrum Disorder. _Behavioral Brain Research_.
+* Dickinson, A., DiStefano, C., __Scheffler, A.__,  Senturk, D., Jeste, S. (2018). Interhemispheric alpha-band hypoconnectivity in children with Autism Spectrum Disorder. _Behavioral Brain Research_.
 
-* Rotheram-Borus, E.J., Tomlinson, M., __Scheffler, A.__, Weichle, T.W., Hayati Rezvan, P., Comulada W.S., Rotheram-Borus, M.J. (2018). Maternal patterns of antenatal and postnatal depressed mood and the impact on child health at 3-years postpartum. _Jounral of Consulting and Clinical Pyschology_.
+* Rotheram-Borus, E.J., Tomlinson, M., __Scheffler, A.__, Weichle, T.W., Hayati Rezvan, P., Comulada W.S., Rotheram-Borus, M.J. (2018). Maternal patterns of antenatal and postnatal depressed mood and the impact on child health at 3-years postpartum. _Journal of Consulting and Clinical Pyschology_.
 
 * __Scheffler, A.__ \* Hasenstab, K.\*, Telesca, D., Sugar, C., Jeste, S., DiStefano, C.,  Senturk, D. (2017). A Multi-Dimensional Functional Principal Components Analysis of EEG Data. _Biometrics_. (\*Joint first authors) __(WNAR Best Student Paper)__
 
@@ -29,7 +29,7 @@ To view published papers, please see my [Google Scholar](https://scholar.google.
 
 * __Scheffler, A.__, Jeste, S., Dickinson, A., DiStefano, C.,  Senturk, D. (2018). Covariate-adjusted hybrid principal components analysis for region-referenced functional EEG data. 
 
-* ABC project (need information on individuals) 
+* Naples, A., Webb, S., __Scheffler, A.__, Senturk, D., Levine, A. (2018). A repeatability analysis of EEG biomarkers in the Autism Biomarker Consortium trial.
 
 * Dickinson, A., DiStefano, C., Tran, X., __Scheffler, A.__,  Senturk, D., Jeste, S. Interhemispheric oscillatory connectivity in infants with Autism Spectrum Disorder.
 
