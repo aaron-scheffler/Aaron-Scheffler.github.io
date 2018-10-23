@@ -31,11 +31,11 @@ Published papers are available online through my [Google Scholar](https://schola
 
 * Naples, A., Webb, S., __Scheffler, A.__, Senturk, D., Levine, A. (2018). A repeatability analysis of EEG biomarkers in the Autism Biomarker Consortium trial.
 
-* Dickinson, A., DiStefano, C., Tran, X., __Scheffler, A.__,  Senturk, D., Jeste, S. Interhemispheric oscillatory connectivity in infants with Autism Spectrum Disorder.
+* Dickinson, A., DiStefano, C., Tran, X., __Scheffler, A.__,  Senturk, D., Jeste, S. (2018). Interhemispheric oscillatory connectivity in infants with Autism Spectrum Disorder.
 
-* Wiedhaas, J., __Scheffler, A.__, Telesca, D. Germline microRNA signatures predict toxicity in response to immunotherapy in a mixed cancer cohort.
+* Wiedhaas, J., __Scheffler, A.__, Telesca, D. (2018). Germline microRNA signatures predict toxicity in response to immunotherapy in a mixed cancer cohort.
 
-* Senturk, D. and __Scheffler, A.__ Modeling longitudinal trends in Event Related Potentials (ERPs). (book chapter)
+* Senturk, D. and __Scheffler, A.__ (2017). Modeling longitudinal trends in Event Related Potentials (ERPs). (book chapter)
 
 ### Software
 
