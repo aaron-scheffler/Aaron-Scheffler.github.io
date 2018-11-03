@@ -8,7 +8,7 @@ My research centers on the statistical challenges posed by highly structured dat
 
 My research is advised by [Dr. Damla Senturk](https://www.biostat.ucla.edu/people/senturk) and motivated by electroencephalography (EEG) studies in children with autism spectrum disorder conducted by collaborators at [The Jeste Developmental Neurophysiology Lab](http://jestelab.org/) and the [Autism Biomarker Consortium for Clinical Trials](https://medicine.yale.edu/ycci/researchers/autism/).
 
-I also work as a statistical consultant for [MiraDx](https://miradx.com/) where I study how germ-line genetic signatures predict treatment response and toxicity during cancer immunotherapy. 
+I also work as a statistical consultant for [MiraDx](https://miradx.com/) where I study how germ-line genetic signatures can be used to predict treatment response and toxicity for patients undergoing cancer immunotherapy. 
 
 For a full list of my publications is availabile [here](publications.md).
 
