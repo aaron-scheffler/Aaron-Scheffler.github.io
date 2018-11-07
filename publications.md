@@ -12,7 +12,7 @@ Published papers are available online through my [Google Scholar](https://schola
 
 * Rotheram-Borus, E.J., Tomlinson, M., __Scheffler, A.__, Weichle, T.W., Hayati Rezvan, P., Comulada W.S., Rotheram-Borus, M.J. (2018). Maternal patterns of antenatal and postnatal depressed mood and the impact on child health at 3-years postpartum. _Journal of Consulting and Clinical Pyschology_.
 
-* __Scheffler, A.__ \*, Hasenstab, K.\*, Telesca, D., Sugar, C., Jeste, S., DiStefano, C.,  Senturk, D. (2017). A multi-dimensional functional principal components analysis of EEG data. _Biometrics_. (\*Joint first authors) __(WNAR Best Student Paper)__
+* __Scheffler, A.__ \*, Hasenstab, K.\*, Telesca, D., Sugar, C., Jeste, S., DiStefano, C.,  Senturk, D. (2017). A multi-dimensional functional principal components analysis of EEG data. _Biometrics_. (\*Joint first authors) __(WNAR Best Student Paper 2016)__
 
 * Rotheram-Borus, M.J., Tomlinson, M., __Scheffler, A.__, Harris, D., Nelson, S. (2017). Adjustment of a population of South African children of mothers living with and without HIV through three years post-birth. _AIDS and Behavior_.
 
