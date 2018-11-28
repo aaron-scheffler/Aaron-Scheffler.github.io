@@ -10,7 +10,7 @@ My research is advised by [Dr. Damla Senturk](https://www.biostat.ucla.edu/peopl
 
 I also work as a statistical consultant for [MiraDx](https://miradx.com/) where I study how germ-line genetic signatures can be used to predict treatment response and toxicity for patients undergoing cancer immunotherapy. 
 
-Please click [here](publications.md) for a full list of my accepted publications and articles in prepration. 
+A list of publications and associated software is availaible [here](publications.md). 
 
 [ [Back to homepage] ](./)
 
