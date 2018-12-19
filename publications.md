@@ -4,6 +4,8 @@ Published papers are available online through my [Google Scholar](https://schola
 
 ### Published and submitted
 
+* Wiedhaas, J., __Scheffler, A.__, Kalbasi, A., Salzman, D., Wilenius, K., Rietdorf, E., Heilig, M., Pitka, M., Desler, C., Ruan, D., Drakaki, A., Scholz, M., Telesca, D. (2018). Germ-line mutations in microRNA-pathways predict immune associates toxicity to anti-PD1/PDL1 therapy, _New England Journal of Medicine_. (in submission)
+
 * __Scheffler, A.__, Telesca, D., Sugar, C., Jeste, S., Dickinson, A., DiStefano, C.,  Senturk, D. (2018). Covariate-adjusted region-referenced generalized functional linear model for EEG data. _Statistics in Medicine_. (in submission) 
 
 * __Scheffler, A.__, Telesca, D., Li, Q.,  Sugar, C., DiStefano, C., Jeste, S., Senturk, D. (2018). Hybrid principal components analysis for region-referenced longitudinal functional EEG data. _Biostatistics_.
@@ -32,8 +34,6 @@ Published papers are available online through my [Google Scholar](https://schola
 * Naples, A., Webb, S., __Scheffler, A.__, Senturk, D., Levine, A. (2018). A repeatability analysis of EEG biomarkers in the Autism Biomarker Consortium trial.
 
 * Dickinson, A., DiStefano, C., Tran, X., __Scheffler, A.__,  Senturk, D. , Jeste, S. (2018). Interhemispheric oscillatory connectivity in infants with Autism Spectrum Disorder.
-
-* Wiedhaas, J., __Scheffler, A.__, Telesca, D. (2018). Germline microRNA signatures predict toxicity in response to immunotherapy in a mixed cancer cohort.
 
 * Senturk, D. and __Scheffler, A.__ (2018). Modeling longitudinal trends in Event Related Potentials (ERPs). (book chapter)
 
