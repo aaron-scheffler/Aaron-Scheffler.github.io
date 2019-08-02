@@ -6,7 +6,7 @@ Published papers are available online through my [Google Scholar](https://schola
 
 * Wiedhaas, J., __Scheffler, A.__, Kalbasi, A., Salzman, D., Wilenius, K., Rietdorf, E., Heilig, M., Pitka, M., Desler, C., Ruan, D., Drakaki, A., Scholz, M., Telesca, D. (2018). Germ-line mutations in microRNA-pathways predict immune associated toxicity to anti-PD1/PDL1 therapy. (under review)
 
-* __Scheffler, A.__, Telesca, D., Sugar, C., Jeste, S., Dickinson, A., DiStefano, C.,  Senturk, D. (2018). Covariate-adjusted region-referenced generalized functional linear model for EEG data. (under review) 
+* __Scheffler, A.__, Telesca, D., Sugar, C., Jeste, S., Dickinson, A., DiStefano, C.,  Senturk, D. (2019). Covariate-adjusted region-referenced generalized functional linear model for EEG data. _Statistics in Medicine_ 
 
 * __Scheffler, A.__, Telesca, D., Li, Q.,  Sugar, C., DiStefano, C., Jeste, S., Senturk, D. (2018). Hybrid principal components analysis for region-referenced longitudinal functional EEG data. _Biostatistics_.
 
