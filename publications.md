@@ -5,7 +5,7 @@ Published papers are available online through my [Google Scholar](https://schola
 ### Published and submitted
 * Wiedhaas, J., __Scheffler, A.__, Kalbasi, A., Salzman, D., Wilenius, K., Rietdorf, E., Heilig, M., Pitka, M., Desler, C., Ruan, D., Drakaki, A., Scholz, M., Telesca, D. (2019). Germ-line mutations in microRNA-pathways predict immune associated toxicity to anti-PD1/PDL1 therapy. (under review)
 
-* __Scheffler, A.__, Telesca, D., Sugar, C., Jeste, S., Dickinson, A., DiStefano, C.,  Senturk, D. (2019). Covariate-adjusted region-referenced generalized functional linear model for EEG data. _Statistics in Medicine_ (accepted) 
+* __Scheffler, A.__, Telesca, D., Sugar, C., Jeste, S., Dickinson, A., DiStefano, C.,  Senturk, D. (2019). Covariate-adjusted region-referenced generalized functional linear model for EEG data. _Statistics in Medicine_ 
 
 * McDonald, N., Senturk, D., __Scheffler, A.__, Brian, J., Carver, L., Charman, T., Chawarska, K.,  Curtin, S., Hertz-Piccioto, I., Jones, E., Klin, A., Landa, R., Messinger, D., Ozonoff, S., Stone, W., Tager-Flusberg, H., Webb, S., Young, G., Zwaigenbaum, L., Jeste, S. (2019). Developmental Trajectories of Infants With Multiplex Family Risk for Autism: A Baby Siblings Research Consortium Study. _JAMA Neurology_. 
 
