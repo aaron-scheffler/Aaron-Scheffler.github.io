@@ -1,7 +1,7 @@
 
 ## Research and Collaborative Focus
 
-## <Research>
+## Research
 <p align="center">
 <img width="534" height="116" src="./images/time_series_2.png">
 </p>
@@ -12,7 +12,7 @@ My research centers on the statistical challenges posed by highly structured dat
 
 
 <p align="center">
-<img width="600" height="232" src="./images/multimodal.png">
+<img width="580" height="232" src="./images/multimodal.png">
 </p>
 
 
