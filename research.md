@@ -9,7 +9,7 @@ My research centers on the statistical challenges posed by highly structured dat
 ### Multi-modal brain imaging data
 
 <p align="center">
-<img width="300" height="232" src="./images/multimodal.png">
+<img width="600" height="232" src="./images/multimodal.png">
 </p>
 
 ### 
