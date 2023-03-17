@@ -15,6 +15,9 @@ My research centers on the statistical challenges posed by highly structured dat
 ### 
 
 
+
+### Functional data analysis of Electroencephalography Data
+
 My research is motivated by electroencephalography (EEG) studies in children with autism spectrum disorder conducted by collaborators at [The Jeste Developmental Neurophysiology Lab](http://jestelab.org/) and the [Autism Biomarker Consortium for Clinical Trials](https://medicine.yale.edu/ycci/researchers/autism/).
 
 A list of publications and associated software is availaible [here](publications.md). 
