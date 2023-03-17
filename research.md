@@ -1,7 +1,7 @@
 
 ## Research and Collaborative Focus
 
-### Research
+## Research
 <p align="center">
 <img width="534" height="116" src="./images/time_series_2.png">
 </p>
