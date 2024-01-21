@@ -21,7 +21,7 @@ Due to a global rise in life expectancy, Alzheimer's disease and other neurodege
 
 ### Functional data analysis of electroencephalography data
 <p align="center">
-<img width="580" height="232" src="./images/multimodal.png">
+<img width="580" height="232" src="./images/hpca.png">
 </p>
 
 Functional data analysis (FDA) offers a power methodological framework that embraces the underlying structure in this data by assuming that the basic unit of observation is a signal observed over some continuous domain. My research is motivated by electroencephalography (EEG) studies in children with autism spectrum disorder conducted by collaborators at [The Jeste Developmental Neurophysiology Lab](http://jestelab.org/) and the [Autism Biomarker Consortium for Clinical Trials](https://medicine.yale.edu/ycci/researchers/autism/).
