@@ -14,9 +14,9 @@ For more information, please see my [CV](aaron_cv_2024.pdf).
 * __December 2023:__ [Dr. Rajarshi Guhaniyogi](https://sites.google.com/view/rajguhaniyogi/home?authuser=0) and I were awarded a NIH/NINDS R01 grant titled "Bayesian Object-Oriented Modeling of Multi-Modal Imaging Data".
 
 * __September 2023:__ Our paper "A bayesian covariance based
-clustering for high-dimensional tensors" is accepted with minor revisions in *Technometrics*. The manuscript can be viewed [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9165697/pdf/nihms-1759541.pdf).
+clustering for high-dimensional tensors" is accepted with minor revisions in *Technometrics*.
 
-* __September 2023:__ Our paper "Bayesian adaptive design for covariate-adaptive historical control information borrowing" is published in *Statistics and Medicine*. The manuscript can be viewed [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9165697/pdf/nihms-1759541.pdf).
+* __September 2023:__ Our paper "Bayesian adaptive design for covariate-adaptive historical control information borrowing" is published in *Statistics and Medicine*. The manuscript can be viewed [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9165697/pdf/nihms-1759541.pdf](https://pubmed.ncbi.nlm.nih.gov/37750361/).
 
 * __June 2022:__ Our paper "Covariate-adjusted hybrid principal components analysis for
 region-referenced functional EEG data" is published in *Statistics and its Interface*. The manuscript can be viewed [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9165697/pdf/nihms-1759541.pdf).
