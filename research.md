@@ -1,6 +1,3 @@
-
-## Research and Collaborative Focus
-
 ## Research
 
 My research centers on the statistical challenges posed by highly structured data collected in an increasing number of applications ranging from imaging to wearable technologies. Frequently, the observed data are discrete samples of an underlying functional process which exhibits complex dependencies that are difficult to capture using traditional statistical models. A central theme in my research is to provide computationally efficient methods for these rich data structures that maintain information along each dimension while simultaneously providing interpretable components and inferences. Specific topics of active research are listed below.
