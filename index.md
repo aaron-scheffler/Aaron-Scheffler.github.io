@@ -21,6 +21,6 @@ clustering for high-dimensional tensors" is accepted with minor revisions in *Te
 * __June 2022:__ Our paper "Covariate-adjusted hybrid principal components analysis for
 region-referenced functional EEG data" is published in *Statistics and its Interface*. The manuscript can be viewed [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9165697/pdf/nihms-1759541.pdf).
 
-* __April 2022:__ We're funded. I was awarded a **NSF DMS** grant titled "Use of Random Compression Matrices For Scalable Inference in High Dimensional Structured Regressions". This is joint work with [Dr. Rajarshi Guhaniyogi](https://sites.google.com/view/rajguhaniyogi/home?authuser=0). The full project description can be found [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2210206&HistoricalAwards=false).
+* __April 2022:__ We're funded! I was awarded a **NSF DMS** grant titled "Use of Random Compression Matrices For Scalable Inference in High Dimensional Structured Regressions". This is joint work with [Dr. Rajarshi Guhaniyogi](https://sites.google.com/view/rajguhaniyogi/home?authuser=0). The full project description can be found [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2210206&HistoricalAwards=false).
 
 
