@@ -7,7 +7,7 @@ My research centers on the statistical challenges posed by highly structured dat
 <img width="580" height="350" src="./images/tadpole.png">
 </p>
 
-Disease progression models (DPMs) are critical tools to characterize the etiology of NDs and capture treatment effects for prospective clinical trials. Development of DPMs is complicated by subject-level variability in age of onset, rate of progression, and signal amplitude. We develop Bayesian generalized nonlinear mixed effects DPMs which model disease progression across heterogeneous biomarkers
+Disease progression models (DPMs) are critical tools to characterize the etiology of neurodegenerative disorders (NDs) and capture treatment effects for prospective clinical trials. Development of DPMs is complicated by subject-level variability in age of onset, rate of progression, and signal amplitude. We develop Bayesian generalized nonlinear mixed effects DPMs which model disease progression across heterogeneous biomarkers
 by modeling subject-specific variation in phase, amplitude, diease rate. 
 
 ### Multi-modal brain imaging data
