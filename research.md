@@ -2,16 +2,16 @@
 ## Research and Collaborative Focus
 
 ## Research
-<p align="center">
-<img width="534" height="116" src="./images/time_series_2.png">
-</p>
 
-My research centers on the statistical challenges posed by highly structured data collected in an increasing number of applications ranging from imaging to wearable technologies. Frequently, the observed data are discrete samples of an underlying functional process which exhibits complex dependencies that are difficult to capture using traditional statistical models. A central theme in my research is to provide computationally efficient methods for these rich data structures that maintain information along each dimension while simultaneously providing interpretable components and inferences. 
+My research centers on the statistical challenges posed by highly structured data collected in an increasing number of applications ranging from imaging to wearable technologies. Frequently, the observed data are discrete samples of an underlying functional process which exhibits complex dependencies that are difficult to capture using traditional statistical models. A central theme in my research is to provide computationally efficient methods for these rich data structures that maintain information along each dimension while simultaneously providing interpretable components and inferences. Specific topics of active research are listed below.
 
 ### Disease progression models
 <p align="center">
-<img width="580" height="232" src="./images/multimodal.png">
+<img width="580" height="350" src="./images/tadpole.png">
 </p>
+
+Disease progression models (DPMs) are critical tools to characterize the etiology of NDs and capture treatment effects for prospective clinical trials. Development of DPMs is complicated by subject-level variability in age of onset, rate of progression, and signal amplitude. We develop Bayesian generalized nonlinear mixed effects DPMs which model disease progression across heterogeneous biomarkers
+by modeling subject-specific variation in phase, amplitude, diease rate. 
 
 ### Multi-modal brain imaging data
 <p align="center">
