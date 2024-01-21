@@ -14,4 +14,6 @@ This is an introduction to the opportunities and challenges of using large datas
 
 The full course description can be found [here](https://epibiostat.ucsf.edu/opportunities-and-challenges-complex-biomedical-data-introduction-science-big-data-biostat-202).
 
+In addition, I provide lectures of biostatistics for the University of California, San Francisco School of Medicine [Bridges curriculum]([https://ticr.ucsf.edu/](https://meded.ucsf.edu/bridges-curriculum) and the School of Pharmacy.
+
 [ [Back to homepage] ](./)
