@@ -20,7 +20,7 @@ Due to a global rise in life expectancy, Alzheimer's disease and other neurodege
 <img width="580" height="350" src="./images/hpca.png">
 </p>
 
-Functional data analysis (FDA) offers a power methodological framework that embraces the underlying structure in this data by assuming that the basic unit of observation is a signal observed over some continuous domain. My research is motivated by electroencephalography (EEG) studies in children with autism spectrum disorder conducted by collaborators at [The Jeste Developmental Neurophysiology Lab](http://jestelab.org/) and the [Autism Biomarker Consortium for Clinical Trials](https://medicine.yale.edu/ycci/researchers/autism/).
+Functional data analysis (FDA) offers a power methodological framework that embraces the underlying structure in this data by assuming that the basic unit of observation is a signal observed over some continuous domain. My research is motivated by electroencephalography (EEG) studies in children with autism spectrum disorder conducted by collaborators at [The Jeste Developmental Neurophysiology Lab](http://jestelab.org/) and the [Autism Biomarker Consortium for Clinical Trials](https://medicine.yale.edu/ycci/researchers/autism](https://medicine.yale.edu/ycci/programsprojects/autism/).
 
 
 A list of publications is availaible [here](publications.md). 
